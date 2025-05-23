@@ -61,7 +61,6 @@ Classify iris flowers into three species (Setosa, Versicolor, Virginica) based o
 3. Open and run the `main.py` file or notebook provided.
 4. Each task folder may contain:
    - Python files (.py)
-   - Jupyter notebooks (.ipynb)
    - Dataset files (.csv)
    - Screenshots (optional)
    - Output results
