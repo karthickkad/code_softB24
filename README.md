@@ -19,7 +19,7 @@ Predict whether a passenger survived the Titanic disaster based on features such
 **Possible Algorithms**: Logistic Regression, Decision Tree, Random Forest  
 **Output**: 0 = Not Survived, 1 = Survived  
 **Dataset**: Titanic Dataset (CSV file)
-
+- [Task 1: Titanic Survival Prediction](./task1/README.md)
 ---
 
 ## ✅ Task 2: Movie Rating Prediction
