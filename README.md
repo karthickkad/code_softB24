@@ -74,7 +74,8 @@ Classify iris flowers into three species (Setosa, Versicolor, Virginica) based o
 karthickkad/code_softB24
 │
 ├── task1/
-│   ├── titanic_model.py
+│   ├── main.py
+│       ├── titanic_model.py
 │   ├── Titanic-Dataset.csv
 │   ├── Figure_1.png
 │   ├── Figure_2.png
@@ -83,14 +84,16 @@ karthickkad/code_softB24
 │   └── README.md
 │
 ├── task2/
-│   ├── movie_rating_prediction.py
+│   ├── main.py
+│       ├── movie_rating_prediction.py
 │   ├── IMDb Movies India.csv
 │   ├── Figure_1.png
 │   ├── requirements.txt
 │   └── README.md
 │
 ├── task3/
-│   ├── iris_flower.py
+│   ├── main.py
+│       ├── iris_flower.py
 │   ├── IRIS.csv
 │   ├── Figure_1.png
 │   ├── Figure_2.png
