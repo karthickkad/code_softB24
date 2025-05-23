@@ -68,4 +68,48 @@ Classify iris flowers into three species (Setosa, Versicolor, Virginica) based o
 
 > Required libraries: pandas, numpy, scikit-learn, matplotlib, seaborn, easyocr (for Task 2 if using image recognition)
 
+---
+
+## 📁 Folder Structure
+
+karthickkad/code_softB24
+│
+├── task1/
+│   ├── titanic_model.py
+│   ├── Titanic-Dataset.csv
+│   ├── Figure_1.png
+│   ├── Figure_2.png
+│   ├── Figure_3.png
+│   ├── requirements.txt
+│   └── README.md
+│
+├── task2/
+│   ├── movie_rating_prediction.py
+│   ├── IMDb Movies India.csv
+│   ├── Figure_1.png
+│   ├── requirements.txt
+│   └── README.md
+│
+├── task3/
+│   ├── iris_flower.py
+│   ├── IRIS.csv
+│   ├── Figure_1.png
+│   ├── Figure_2.png
+│   ├── requirements.txt
+│   └── README.md
+│
+└── README.md  ← Combined one for all tasks
+
+
+---
+
+## 🙋 About Me
+
+**Intern at Codesoft – Data Science Domain**  
+**Name**: Lokeshwaran.B  
+**Education**: first year, BBA  
+**Interest**: Data Science, Machine Learning, Python Programming
+
+---
+
 
