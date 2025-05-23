@@ -19,7 +19,7 @@ Predict whether a passenger survived the Titanic disaster based on features such
 **Possible Algorithms**: Logistic Regression, Decision Tree, Random Forest  
 **Output**: 0 = Not Survived, 1 = Survived  
 **Dataset**: Titanic Dataset (CSV file)
-- [Task 1: Titanic Survival Prediction](./task1/README.md)
+- [Task 1: Titanic Survival Prediction](./task1)
 ---
 
 ## ✅ Task 2: Movie Rating Prediction
@@ -35,7 +35,7 @@ Build a regression model that predicts movie ratings based on features like:
 **Possible Algorithms**: Linear Regression, Random Forest Regressor, XGBoost  
 **Output**: Predicted rating (e.g., 6.8 out of 10)  
 **Dataset**: Movie Dataset (CSV file)
-
+- [Task 2: Movie Rating Prediction](./task2)
 ---
 
 ## ✅ Task 3: Iris Flower Classification
@@ -51,7 +51,7 @@ Classify iris flowers into three species (Setosa, Versicolor, Virginica) based o
 **Possible Algorithms**: K-Nearest Neighbors (KNN), Support Vector Machine (SVM), Decision Tree  
 **Output**: Predicted species name  
 **Dataset**: Iris Dataset (CSV file or from sklearn.datasets)
-
+- [Task 3: Iris Flower Classification](./task3)
 ---
 
 ## 🔧 How to Use
