@@ -108,9 +108,7 @@ karthickkad/code_softB24
 ## 🙋 About Me
 
 **Intern at Codesoft – Data Science Domain**  
-**Name**: Lokeshwaran.S
-**Education**: first year, BBA  
-**Interest**: Data Science, Machine Learning, Python Programming
+**Name**: karthick B
 
 ---
 
