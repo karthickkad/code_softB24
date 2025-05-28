@@ -35,7 +35,7 @@ Build a regression model that predicts movie ratings based on features like:
 **Possible Algorithms**: Linear Regression, Random Forest Regressor, XGBoost  
 **Output**: Predicted rating (e.g., 6.8 out of 10)  
 **Dataset**: Movie Dataset (CSV file)
-- [Task 2: Movie Rating Prediction](./task2)
+- [Task 2: Movie Rating Prediction](./task2) 
 ---
 
 ## ✅ Task 3: Iris Flower Classification
